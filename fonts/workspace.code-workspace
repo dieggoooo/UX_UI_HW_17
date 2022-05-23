@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "dieggoooo-UX_UI_HW_17",
+			"path": ".."
+		},
+		{
+			"name": "fonts",
+			"path": "..\\..\\fonts"
+		},
+		{
+			"name": "img",
+			"path": "..\\..\\img"
+		},
+		{
+			"name": "js",
+			"path": "..\\..\\js"
+		}
+	],
+	"settings": {}
+}
